@@ -1,0 +1,21 @@
+{
+  "name": "Anush Planner X1",
+  "short_name": "Anush X1",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6ebe3",
+  "theme_color": "#f7eee7",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
